@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://2026webai-lab.github.io/RETRO-WORKSHOP/sitemap.xml

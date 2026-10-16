@@ -1,0 +1,7 @@
+# IDEA TOY BOX
+
+> Webマーケター／クリエイター HATTORI ICHIDAI が提供する、アイデアのおもちゃ箱。HP・EC・SNS運用・AI業務効率化の「作りたい」を形にします。スクロールで体験する3Dランディングページ。
+
+- 制作者: HATTORI ICHIDAI (https://2026webai-lab.github.io/newportfolio/)
+- URL: https://2026webai-lab.github.io/RETRO-WORKSHOP/
+- 技術: スクロール連動の画像連番＋WebGL（外部ライブラリなし）
